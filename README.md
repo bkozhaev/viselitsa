@@ -10,11 +10,11 @@
 #### Установка руби
 Для запуска игры необходимо установленный ruby 2.4+ 
 ```
-$ sudo apt-get install ruby-full
+>sudo apt-get install ruby-full
 ```
 #### Установка необходимого гема
 ```
-bundle install
+>bundle install
 ```
 ### Запуск игры Висецлица. 
 ```
