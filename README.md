@@ -11,7 +11,7 @@
 ```
 >bundle install
 ```
-### Запуск игры Висецлица. 
+### Запуск игры
 ```
 >bundle exec ruby viselitsa_3.rb
 ```
